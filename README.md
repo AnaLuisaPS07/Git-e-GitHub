@@ -75,3 +75,27 @@ Nome|Idade|Cidade
 ---|---|---|
 Ana|19|Flores
 Luísa|20|Goiânia
+
+## Destaque de código
+(colocar crase no começo e final -> `´)
+
+Quero destacar o trecho `Console.log("Hello World!")`
+
+## Trecho de código (exemplo em python)
+
+(entre três crases -> ```)
+
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0
+   printf('O número {num} é par')
+else:
+   printf('O número {num} é ímpar')
+```
+
+## Emoji
+
+(coloca dois pontos e o nome do emoji -> :hand)
+
+emoji de mão 🤙
+emoji de pé 🦶
