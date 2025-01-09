@@ -67,3 +67,11 @@ _texto em Italico_ -> um underline
 [Perfil no GitHub](https://github.com/AnaLuisaPS07)
 
 ![eu icon](https://github.com/user-attachments/assets/2f0fa0a7-b20a-4252-ae71-a3ce82222db8)
+
+## Criação de Tabela
+(usa-se pipe -> | e Traço -> -)
+
+Nome|Idade|Cidade
+---|---|---|
+Ana|19|Flores
+Luísa|20|Goiânia
