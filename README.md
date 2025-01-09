@@ -64,4 +64,6 @@ _texto em Italico_ -> um underline
    - [x] Teste do teste
 
 
-[GitHUb](https://github.com/AnaLuisaPS07)
+[Perfil no GitHub](https://github.com/AnaLuisaPS07)
+
+![eu icon](https://github.com/user-attachments/assets/2f0fa0a7-b20a-4252-ae71-a3ce82222db8)
