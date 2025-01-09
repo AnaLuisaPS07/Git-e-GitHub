@@ -99,3 +99,9 @@ else:
 
 emoji de mão 🤙
 emoji de pé 🦶
+
+## Replay/Quote
+
+(Colocar sinal de maior na frente -> >)
+
+>responder
