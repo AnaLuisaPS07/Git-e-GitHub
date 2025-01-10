@@ -63,11 +63,6 @@ _texto em Italico_ -> um underline
 - [ ] Teste
    - [x] Teste do teste
 
-
-[Perfil no GitHub](https://github.com/AnaLuisaPS07)
-
-![eu icon](https://github.com/user-attachments/assets/2f0fa0a7-b20a-4252-ae71-a3ce82222db8)
-
 ## Criação de Tabela
 (usa-se pipe -> | e Traço -> -)
 
@@ -105,3 +100,7 @@ emoji de pé 🦶
 (Colocar sinal de maior na frente -> >)
 
 >responder
+
+[Perfil no GitHub](https://github.com/AnaLuisaPS07)
+
+![icon anime](https://github.com/user-attachments/assets/dc1b843a-290f-44d0-8201-121f44d23f56)
