@@ -11,6 +11,7 @@ No cmd: "cd <caminho da pasta para colocar o repositório>"
 vai na pasta pelo explorador de arquivos e veja se o confira se os arquivos do repositório estão lá
 -------------------------------------------------------------------------------------------------
 CRIAR UM REPOSITÓRIO PELO GIT
+(também pode ser feito tudo diretamente pelo cmd como no método acima)
 
 1º:
 crie uma pasta no explorador de arquivo 
