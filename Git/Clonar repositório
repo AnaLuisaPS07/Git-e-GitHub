@@ -1,0 +1,26 @@
+COLANDO REPOSITÓRIO REMOTO PARA LOCAL (do github para o git)
+
+1º: 
+No cmd: "cd <caminho da pasta para colocar o repositório>"
+                  
+2º:
+(dentro da pasta) 
+"git clone <caminho do repositório que deseja clonar>"
+
+3º:
+vai na pasta pelo explorador de arquivos e veja se o confira se os arquivos do repositório estão lá
+-------------------------------------------------------------------------------------------------
+CRIAR UM REPOSITÓRIO PELO GIT
+
+1º:
+crie uma pasta no explorador de arquivo 
+
+2º:
+abre ela no vscode
+
+3º:
+no terminal do vs, dentro do caminho da pasta, escreva "Git init"
+
+4:
+se tudo der certo aparecerá: Initialized empty Git repository in C: <caminho do repositorio >
+e terá um arquivo chamado ".git"
