@@ -12,11 +12,15 @@ Pull -> traz o que está no repositório remoto para o local
 
 ### lembrar 
 
-git diff - m - mostra as linhas de alterações feitas
-git diff --staged -  mostra as linhas de alterações feitas dentro do stage
+` git diff ` - mostra as linhas de alterações feitas
 
-git restore - retorna um arquivo que foi adicionado (alterações/git add)
-git restore --staged - retorna um arquivo que foi adicionado no stage (alterações preparadas)
+` git diff ` --staged -  mostra as linhas de alterações feitas dentro do stage
+
+` git log ` - mostra o historico de commits (mesma funcionalidade da extensão git lens)
+
+` git restore ` - retorna um arquivo que foi adicionado (alterações/git add)
+
+` git restore ` --staged - retorna um arquivo que foi adicionado no stage (alterações preparadas)
 
 ## atalhos:
 Ctrl + Enter -> Commit
