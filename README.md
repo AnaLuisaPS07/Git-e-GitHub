@@ -10,6 +10,14 @@ Push -> leva o que está no repositório local para o remoto
 
 Pull -> traz o que está no repositório remoto para o local
 
+### lembrar 
+
+git diff - m - mostra as linhas de alterações feitas
+git diff --staged -  mostra as linhas de alterações feitas dentro do stage
+
+git restore - retorna um arquivo que foi adicionado (alterações/git add)
+git restore --staged - retorna um arquivo que foi adicionado no stage (alterações preparadas)
+
 ## atalhos:
 Ctrl + Enter -> Commit
 
