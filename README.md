@@ -8,7 +8,36 @@ Essa linha foi digitada no site (ou seja, no repositório remoto)
 
 Push -> leva o que está no repositório local para o remoto
 
-Pull -> traz o que está no repositório remoto para o local
+Pull -> traz o que está no repositório remoto para o local e adiciona automaticamente 
+
+git fetch -> é um pull mas sem o merge
+
+git diff origin/main -> mostra as alterações
+
+git pull -> faz o pull com o merge
+
+### lembrar 
+
+` git diff ` - mostra as linhas de alterações feitas
+
+` git diff ` --staged -  mostra as linhas de alterações feitas dentro do stage
+
+` git log ` - mostra o historico de commits (mesma funcionalidade da extensão git lens)
+
+` git restore ` - retorna um arquivo que foi adicionado (alterações/git add)
+
+` git restore ` --staged - retorna um arquivo que foi adicionado no stage (alterações preparadas)
+
+`git pull` - traz o que está no repositório remoto para o local e adiciona automaticamente (merge)
+
+`git fetch` - é um pull mas sem o merge
+
+`git diff origin/main` - mostra as alterações
+
+`git pull` - faz o pull com o merge
+
+`git remote`
+
 
 ## atalhos:
 Ctrl + Enter -> Commit
